@@ -1,2 +1,6 @@
 /.idea/
 selenium.iml
+/src/drivers/
+/out/production/selenium/drivers/win32/chromedriver80/chromedriver.exe
+/out/production/selenium/drivers/mac64/chromedriver80/chromedriver
+/out/production/selenium/drivers/linux/chromedriver80/chromedriver

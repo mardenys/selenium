@@ -11,7 +11,7 @@ public class FirstTest {
         System.setProperty("webdriver.chrome.driver","src/drivers/win32/chromedriver80/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
-        driver = new ChromeDriver();
+
         driver.navigate().to("https://www.saucedemo.com");
 
         driver.close();

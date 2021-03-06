@@ -11,7 +11,7 @@ public class TestElement {
         System.setProperty("webdriver.chrome.driver","src/drivers/win32/chromedriver80/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
-        driver = new ChromeDriver();
+
         driver.navigate().to("https://oferia.pl/moja_oferia");
 
         driver.findElement(By.id("login_login")).sendKeys("test");
